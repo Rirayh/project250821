@@ -225,7 +225,7 @@ if __name__ == "__main__":
         "acceptance_top_k": [10000],
         "acceptance_threshold": [0.0001],
         "LOGLEVEL" :["DEBUG"],
-        "limit": [100], # Add limit here for quick testing runs
+        # "limit": [100], # Add limit here for quick testing runs
         "log_samples": [True],
     }
 
@@ -261,3 +261,4 @@ if __name__ == "__main__":
 
     
 #     run_speculative_evaluation(EVAL_CONFIG)
+
