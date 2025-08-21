@@ -130,7 +130,7 @@ def main():
         "qwen_model_name": "Qwen/Qwen2.5-7B-Instruct",
         "dream_model_name": "Dream-org/Dream-v0-Instruct-7B",
         "benchmarks": ["gsm8k"], # [MODIFIED] Now a list of benchmarks
-        "limit": 5, # Add limit here for quick testing runs
+        # "limit": 5, # Add limit here for quick testing runs
     }
 
     metrics_file = "baseline_metrics_8004.jsonl"
@@ -188,3 +188,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
