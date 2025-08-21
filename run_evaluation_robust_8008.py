@@ -17,7 +17,7 @@ MODEL_ABBREVIATIONS = {
     "Dream-org/Dream-v0-Instruct-7B": "Dd7b",
 }
 
-def wait_for_server_ready(url, timeout=300):
+def wait_for_server_ready(url, timeout=3000):
     """
     Polls the server to check if it's ready, until a timeout is reached.
     Replaces the fixed time.sleep().
@@ -261,4 +261,5 @@ if __name__ == "__main__":
 
     
 #     run_speculative_evaluation(EVAL_CONFIG)
+
 
