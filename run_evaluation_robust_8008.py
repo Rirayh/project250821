@@ -217,7 +217,7 @@ if __name__ == "__main__":
     SWEEP_CONFIG = {
         "target_model_name": ["Qwen/Qwen2.5-7B-Instruct"],
         "draft_model_name": ["Dream-org/Dream-v0-Instruct-7B"],
-        "benchmark": ["gsm8k"],
+        "benchmark": ["mmlu_pro"],
         "max_gen_toks": [256],
         "max_parallel_draft": [32],
         "draft_temperature": [0.0],
@@ -261,6 +261,7 @@ if __name__ == "__main__":
 
     
 #     run_speculative_evaluation(EVAL_CONFIG)
+
 
 
 
