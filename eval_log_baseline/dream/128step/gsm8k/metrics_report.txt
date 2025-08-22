@@ -1,0 +1,2 @@
+--- Performance Report for DREAM on gsm8k ---
+Dream Baseline (1319 requests): 6931.05 s | Tokens/s: 18.20
