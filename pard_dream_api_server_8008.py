@@ -190,7 +190,7 @@ def create_chat_completion(request: ChatCompletionRequest):
         "answer": generated_text,
         "timestamp": time.time()
     }
-    with open("debug.jsonl", "a") as f:
+    with open("debug_8008.jsonl", "a") as f:
         f.write(json.dumps(qa_record) + "\n")
 
     # 4. Format the response to be compatible with OpenAI's Chat Completions API

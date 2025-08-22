@@ -129,7 +129,7 @@ def main():
     EVAL_CONFIG = {
         "qwen_model_name": "Qwen/Qwen2.5-7B-Instruct",
         "dream_model_name": "Dream-org/Dream-v0-Instruct-7B",
-        "benchmarks": ["gsm8k"], # [MODIFIED] Now a list of benchmarks
+        "benchmarks": ["mmlu_pro"], # [MODIFIED] Now a list of benchmarks
         # "limit": 5, # Add limit here for quick testing runs
     }
 

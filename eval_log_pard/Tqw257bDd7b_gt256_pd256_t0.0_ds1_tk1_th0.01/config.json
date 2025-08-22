@@ -1,7 +1,7 @@
 {
     "target_model_name": "Qwen/Qwen2.5-7B-Instruct",
     "draft_model_name": "Dream-org/Dream-v0-Instruct-7B",
-    "benchmark": "gsm8k",
+    "benchmark": "mmlu_pro",
     "max_gen_toks": 256,
     "max_parallel_draft": 256,
     "draft_temperature": 0.0,
@@ -9,5 +9,6 @@
     "acceptance_top_k": 1,
     "acceptance_threshold": 0.01,
     "LOGLEVEL": "DEBUG",
+    "limit": 10,
     "log_samples": true
 }
