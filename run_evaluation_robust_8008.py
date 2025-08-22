@@ -219,7 +219,7 @@ if __name__ == "__main__":
         "draft_model_name": ["Dream-org/Dream-v0-Instruct-7B"],
         "benchmark": ["gsm8k"],
         "max_gen_toks": [256],
-        "max_parallel_draft": [256],
+        "max_parallel_draft": [32],
         "draft_temperature": [0.0],
         "draft_steps": [1],
         "acceptance_top_k": [10000],
@@ -261,5 +261,6 @@ if __name__ == "__main__":
 
     
 #     run_speculative_evaluation(EVAL_CONFIG)
+
 
 
