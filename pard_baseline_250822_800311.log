@@ -30452,3 +30452,207 @@ used steps: 128
 used time: 9.331516981124878
 INFO:     127.0.0.1:45468 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
 Requesting API:  63%|██████▎   | 7596/12032 [15:00:41<11:07:37,  9.03s/it]2025-08-23:09:36:09,072 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.964688777923584
+INFO:     127.0.0.1:57860 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7597/12032 [15:00:50<11:06:47,  9.02s/it]2025-08-23:09:36:18,072 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.75980257987976
+INFO:     127.0.0.1:48796 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7598/12032 [15:00:59<11:01:37,  8.95s/it]2025-08-23:09:36:26,866 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.339495182037354
+INFO:     127.0.0.1:53812 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7599/12032 [15:01:07<10:48:48,  8.78s/it]2025-08-23:09:36:35,248 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 9.12305760383606
+INFO:     127.0.0.1:45668 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7600/12032 [15:01:16<10:57:01,  8.89s/it]2025-08-23:09:36:44,407 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.191757440567017
+INFO:     127.0.0.1:45680 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7601/12032 [15:01:25<10:42:07,  8.70s/it]2025-08-23:09:36:52,636 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 9.081138610839844
+INFO:     127.0.0.1:42060 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7602/12032 [15:01:34<10:51:26,  8.82s/it]2025-08-23:09:37:01,758 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.338396310806274
+INFO:     127.0.0.1:41962 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7603/12032 [15:01:42<10:41:19,  8.69s/it]2025-08-23:09:37:10,130 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.204312086105347
+INFO:     127.0.0.1:34940 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7604/12032 [15:01:50<10:31:12,  8.55s/it]2025-08-23:09:37:18,369 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.747525215148926
+INFO:     127.0.0.1:49562 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7605/12032 [15:01:59<10:36:08,  8.62s/it]2025-08-23:09:37:27,151 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.493358850479126
+INFO:     127.0.0.1:37408 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7606/12032 [15:02:08<10:33:55,  8.59s/it]2025-08-23:09:37:35,679 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.336361169815063
+INFO:     127.0.0.1:52390 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7607/12032 [15:02:16<10:28:52,  8.53s/it]2025-08-23:09:37:44,050 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.648037195205688
+INFO:     127.0.0.1:52394 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7608/12032 [15:02:25<10:32:10,  8.57s/it]2025-08-23:09:37:52,734 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.517287015914917
+INFO:     127.0.0.1:52050 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7609/12032 [15:02:33<10:31:52,  8.57s/it]2025-08-23:09:38:01,300 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.575896263122559
+INFO:     127.0.0.1:60722 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7610/12032 [15:02:42<10:32:39,  8.58s/it]2025-08-23:09:38:09,914 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.21730899810791
+INFO:     127.0.0.1:49630 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7611/12032 [15:02:50<10:25:09,  8.48s/it]2025-08-23:09:38:18,165 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.180306196212769
+INFO:     127.0.0.1:49420 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7612/12032 [15:02:58<10:19:03,  8.40s/it]2025-08-23:09:38:26,380 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.17954158782959
+INFO:     127.0.0.1:47198 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7613/12032 [15:03:07<10:14:54,  8.35s/it]2025-08-23:09:38:34,602 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.197076082229614
+INFO:     127.0.0.1:47204 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7614/12032 [15:03:15<10:12:10,  8.31s/it]2025-08-23:09:38:42,833 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.518260717391968
+INFO:     127.0.0.1:34968 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7615/12032 [15:03:23<10:17:19,  8.39s/it]2025-08-23:09:38:51,387 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.740461826324463
+INFO:     127.0.0.1:60916 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7616/12032 [15:03:32<10:25:48,  8.50s/it]2025-08-23:09:39:00,163 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.474442720413208
+INFO:     127.0.0.1:52304 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7617/12032 [15:03:41<10:26:07,  8.51s/it]2025-08-23:09:39:08,687 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.354104280471802
+INFO:     127.0.0.1:49560 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7618/12032 [15:03:49<10:23:22,  8.47s/it]2025-08-23:09:39:17,078 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.34928011894226
+INFO:     127.0.0.1:44558 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7619/12032 [15:03:58<10:21:14,  8.45s/it]2025-08-23:09:39:25,461 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.517992734909058
+INFO:     127.0.0.1:45168 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7620/12032 [15:04:06<10:23:26,  8.48s/it]2025-08-23:09:39:34,014 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.363468408584595
+INFO:     127.0.0.1:45172 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7621/12032 [15:04:14<10:21:47,  8.46s/it]2025-08-23:09:39:42,423 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.663875341415405
+INFO:     127.0.0.1:45858 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7622/12032 [15:04:23<10:26:58,  8.53s/it]2025-08-23:09:39:51,123 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.346916675567627
+INFO:     127.0.0.1:57226 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7623/12032 [15:04:32<10:23:33,  8.49s/it]2025-08-23:09:39:59,505 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.336732625961304
+INFO:     127.0.0.1:51600 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7624/12032 [15:04:40<10:20:54,  8.45s/it]2025-08-23:09:40:07,876 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.33925747871399
+INFO:     127.0.0.1:60746 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7625/12032 [15:04:48<10:19:21,  8.43s/it]2025-08-23:09:40:16,264 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.193386554718018
+INFO:     127.0.0.1:40258 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7626/12032 [15:04:57<10:14:46,  8.37s/it]2025-08-23:09:40:24,495 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.210309743881226
+INFO:     127.0.0.1:40266 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7627/12032 [15:05:05<10:11:49,  8.33s/it]2025-08-23:09:40:32,739 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.176620960235596
+INFO:     127.0.0.1:54396 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7628/12032 [15:05:13<10:08:59,  8.30s/it]2025-08-23:09:40:40,950 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.505083084106445
+INFO:     127.0.0.1:37840 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7629/12032 [15:05:22<10:14:17,  8.37s/it]2025-08-23:09:40:49,494 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.19673204421997
+INFO:     127.0.0.1:45192 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7630/12032 [15:05:30<10:11:04,  8.33s/it]2025-08-23:09:40:57,726 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.514193773269653
+INFO:     127.0.0.1:41282 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7631/12032 [15:05:38<10:15:47,  8.40s/it]2025-08-23:09:41:06,275 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.32614254951477
+INFO:     127.0.0.1:39882 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7632/12032 [15:05:47<10:14:53,  8.38s/it]2025-08-23:09:41:14,636 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.339317083358765
+INFO:     127.0.0.1:39898 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7633/12032 [15:05:55<10:14:33,  8.38s/it]2025-08-23:09:41:23,012 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.367381572723389
+INFO:     127.0.0.1:35094 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7634/12032 [15:06:03<10:14:54,  8.39s/it]2025-08-23:09:41:31,417 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.345377683639526
+INFO:     127.0.0.1:57682 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7635/12032 [15:06:12<10:14:34,  8.39s/it]2025-08-23:09:41:39,796 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.577165603637695
+INFO:     127.0.0.1:34558 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7636/12032 [15:06:20<10:19:24,  8.45s/it]2025-08-23:09:41:48,409 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.216387271881104
+INFO:     127.0.0.1:48398 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7637/12032 [15:06:29<10:15:03,  8.40s/it]2025-08-23:09:41:56,672 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.453914642333984
+INFO:     127.0.0.1:38552 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7638/12032 [15:06:37<10:16:56,  8.42s/it]2025-08-23:09:42:05,161 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.33524489402771
+INFO:     127.0.0.1:48626 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7639/12032 [15:06:46<10:15:35,  8.41s/it]2025-08-23:09:42:13,530 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.33748984336853
+INFO:     127.0.0.1:48634 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  63%|██████▎   | 7640/12032 [15:06:54<10:14:39,  8.40s/it]2025-08-23:09:42:21,901 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.345443725585938
+INFO:     127.0.0.1:59818 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  64%|██████▎   | 7641/12032 [15:07:02<10:14:53,  8.40s/it]2025-08-23:09:42:30,315 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.208612442016602
+INFO:     127.0.0.1:43618 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  64%|██████▎   | 7642/12032 [15:07:11<10:11:19,  8.36s/it]2025-08-23:09:42:38,561 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.591696977615356
+INFO:     127.0.0.1:49924 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  64%|██████▎   | 7643/12032 [15:07:19<10:17:08,  8.44s/it]2025-08-23:09:42:47,188 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.4898099899292
+INFO:     127.0.0.1:38036 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  64%|██████▎   | 7644/12032 [15:07:28<10:18:56,  8.46s/it]2025-08-23:09:42:55,713 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.507939338684082
+INFO:     127.0.0.1:41190 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  64%|██████▎   | 7645/12032 [15:07:36<10:20:47,  8.49s/it]2025-08-23:09:43:04,267 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.512594223022461
+INFO:     127.0.0.1:41192 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  64%|██████▎   | 7646/12032 [15:07:45<10:21:53,  8.51s/it]2025-08-23:09:43:12,814 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
+used steps: 128
+used time: 8.353235721588135
+INFO:     127.0.0.1:50688 - "POST /v1/dream/chat/completions HTTP/1.1" 200 OK
+Requesting API:  64%|██████▎   | 7647/12032 [15:07:53<10:19:07,  8.47s/it]2025-08-23:09:43:21,202 INFO     [lm_eval.models.api_models:619] Tokenized requests are disabled. Context + generation length is not checked.
