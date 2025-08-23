@@ -1,0 +1,7 @@
+__pycache__/*
+__pycache__
+*.pyc
+*.pkl
+*.pt
+
+model4draft/__pycache__

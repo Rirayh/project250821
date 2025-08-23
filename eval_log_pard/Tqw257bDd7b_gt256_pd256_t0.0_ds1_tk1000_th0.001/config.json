@@ -9,6 +9,5 @@
     "acceptance_top_k": 1000,
     "acceptance_threshold": 0.001,
     "LOGLEVEL": "DEBUG",
-    "limit": 10,
     "log_samples": true
 }
