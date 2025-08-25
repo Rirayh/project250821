@@ -1,0 +1,2 @@
+--- Performance Report for DREAM on mmlu_pro ---
+Dream Baseline (12032 requests): 163777.85 s | Tokens/s: 1.51
