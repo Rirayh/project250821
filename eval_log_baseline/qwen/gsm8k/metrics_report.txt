@@ -1,0 +1,2 @@
+--- Performance Report for QWEN on gsm8k ---
+Qwen Baseline (1319 requests): 3697.97 s | Tokens/s: 66.96

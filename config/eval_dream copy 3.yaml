@@ -1,0 +1,25 @@
+# PARD-Dream 推测性解码评估配置
+
+eval:
+  - # 第一个实验组
+    target_model_name: "Qwen/Qwen2.5-14B-Instruct"
+    draft_model_name: "Dream-org/Dream-v0-Instruct-7B"
+    benchmark: "gsm8kpromptswithfewshot" # 指定要评估的数据集
+    max_gen_toks: 1024
+    
+    # --- 要进行网格搜索的参数 ---
+    max_parallel_draft: [256, 128,64, 32,16,8,4]
+
+    # --- 固定的草稿和接受参数 ---
+    draft_temperature: 0.0
+    draft_steps: 1
+    acceptance_top_k: [1, 10]
+    acceptance_threshold:  [0.05] 
+
+  # 你可以在这里添加第二个实验组，例如测试不同的接受标准
+  # - target_model_name: "Qwen/Qwen2.5-7B-Instruct"
+  #   draft_model_name: "Dream-org/Dream-v0-Instruct-7B"
+  #   benchmark: "gsm8k"
+  #   max_parallel_draft: [8] # 固定草稿长度
+  #   acceptance_top_k: [1, 5, 10] # 测试不同的 top_k
+  #   acceptance_threshold: [0.05, 0.1, 0.2] # 测试不同的阈值

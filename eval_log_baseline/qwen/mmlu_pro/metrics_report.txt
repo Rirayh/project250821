@@ -1,0 +1,2 @@
+--- Performance Report for QWEN on mmlu_pro ---
+Qwen Baseline (12032 requests): 36605.36 s | Tokens/s: 67.42

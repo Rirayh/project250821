@@ -1,0 +1,13 @@
+Total Requests Processed: 12032
+Total Wall-Clock Time: 20117.99 s
+Overall Throughput: 75.11 Tokens/s
+--------------------
+Acceptance Metrics:
+  - Acceptance Rate: 17.21%
+  - Avg. Accepted Tokens per Draft: 5.14
+  - Total Accepted/Drafted Tokens: 1273596 / 7398368
+  - Total Draft Attempts: 247791
+--------------------
+GPU Timing Metrics:
+  - Total Draft Model GPU Time: 11973103.74 ms
+  - Total Target Model GPU Time: 3761261.35 ms
